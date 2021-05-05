@@ -42,5 +42,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Contact Me
 
 ### [`LinkedIn`](https://www.linkedin.com/in/yagnavalkc) [`Facebook`](https://www.facebook.com/yvnowww)  [`Twitter`](https://twitter.com/yvnowww)  [`Instagram`](https://www.instagram.com/yvnow) 
-MailTo `[yagnavalk.c@gmail.com]`
+MailTo [yagnavalk.c@gmail.com]
 
