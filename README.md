@@ -45,5 +45,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### [`LinkedIn`](https://www.linkedin.com/in/yagnavalkc) [Facebook](https://www.facebook.com/yvnowww)  [Twitter](https://twitter.com/yvnowww)  [Instagram](https://www.instagram.com/yvnow)
+### [`LinkedIn`](https://www.linkedin.com/in/yagnavalkc) [`Facebook`](https://www.facebook.com/yvnowww)  [`Twitter`](https://twitter.com/yvnowww)  [`Instagram`](https://www.instagram.com/yvnow) [`Gmail`](yagnavalk.c@gmail.com)
 
